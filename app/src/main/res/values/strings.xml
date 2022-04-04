@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Anggita UTDI\'s Feed</string>
+    //tambahkan teks sebagai caption untuk gambar yang akan di upload, tipe data String
+    <string name="caption1">Segenap Sivitas Universitas Teknologi Digital Indonesia mengucapkan Selamat Menjalankan Ibadah Puasa Ramadhan 1443 H / 2022 M.
+                            </string>
+    <string name="caption2">Dosen UTDI Beri Motivasi Siswa SMA N 1 Sewon
+                            Dosen Prodi Sistem Informasi, Edy Prayitno, S.Kom., M.Eng., menjadi motivator dalam acara Achievement Motivation Training &amp; Doa Bersama untuk siswa kelas XII dan para orang tuanya, Kamis (31/3).
+                            </string>
+    <string name="caption3">Halo Teknozen!
+                            Buat kamu yang ingin bisa menguasai bidang Perpajakan, Kewirausahaan, dan Komputerisasi Akuntansi…
+                            Kamu bisa mendapatkannya sekaligus di prodi D3 Sistem Informasi Akuntansi UTDI !
+                            </string>
+    <string name="caption4">Halo Teknozen!
+                            Pentingnya portofolio bagi mahasiswa jurusan IT🤔
+                            </string>
+    <string name="caption5">Halo Teknozen!
+                            Selamat yah untuk kamu yang lolos SNMPTN☺️
+                            Nah untuk kamu yang masih berjuang, jangan berhenti disini ya
+                            Yuk jangan lewatkan kesempatanmu untuk menjadi bagian dari kami ya Teknozen !
+                            </string>
+    <string name="caption6">Hai Teknozen!
+                            Alasan cerdas untuk kamu kuliah di UTDI !
+                            </string>
+    <string name="caption7">Halo Teknozen
+                            Ingat, tetap waspada virus covid varian omicron dengan tetap menjaga dan mematuhi protokol kesehatan.
+                            </string>
+    <string name="caption8">Halo Teknozen !
+                            Kuliah di UTDI bisa banget mewujudkan impian ini. Salah satunya dengan belajar di Prodi Rekayasa Perangkat Lunak Aplikasi.
+                            </string>
+    <string name="caption9">Hai Teknozen!
+                            Sehubungan dengan perkuliahan yang kembali daring, yuk mengingat sudut kampus secara virtual.
+                            </string>
+    <string name="caption10">Halo Teknozen!
+                             Penerimaan Mahasiswa Baru 2022 / 2023 Universitas Teknologi Digital Indonesia telah dibuka.
+                             Pendaftaran mahasiswa baru dibuka hingga 30 Agustus 2022. Selain Program Kelas Reguler, tersedia juga Program Kelas Karyawan.
+                             </string>
+    <string name="send">Send</string>
+    <string name="dislike">Dislike</string>
+    <string name="like">Like</string>
+    <string name="tulis_komentar">Tulis Komentar</string>
+</resources>
